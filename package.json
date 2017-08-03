@@ -1,5 +1,5 @@
 {
-  "name": "@graphql-guru/redis",
+  "name": "graphql-guru-redis",
   "version": "0.0.1",
   "description": "Redis resolver modules fro GraphQL Guru",
   "main": "dist/redis-database",
